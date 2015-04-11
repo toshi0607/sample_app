@@ -12,6 +12,7 @@ group :development, :test do
   gem 'rspec-rails', '2.13.1'
   gem 'spork-rails', '4.0.0'
   gem 'childprocess'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 group :test do
